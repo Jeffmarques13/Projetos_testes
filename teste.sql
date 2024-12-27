@@ -1,1 +1,1 @@
-selet * from smusuario
+select * from smusuario where smusuario_loginnname = 'JEFFERSON.MARQUES'
